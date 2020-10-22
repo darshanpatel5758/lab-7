@@ -1,0 +1,13 @@
+D:\Grand Circus\Lab 7\Lab 7\bin\Debug\netcoreapp3.1\Lab 7.exe
+D:\Grand Circus\Lab 7\Lab 7\bin\Debug\netcoreapp3.1\Lab 7.deps.json
+D:\Grand Circus\Lab 7\Lab 7\bin\Debug\netcoreapp3.1\Lab 7.runtimeconfig.json
+D:\Grand Circus\Lab 7\Lab 7\bin\Debug\netcoreapp3.1\Lab 7.runtimeconfig.dev.json
+D:\Grand Circus\Lab 7\Lab 7\bin\Debug\netcoreapp3.1\Lab 7.dll
+D:\Grand Circus\Lab 7\Lab 7\bin\Debug\netcoreapp3.1\Lab 7.pdb
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.csprojAssemblyReference.cache
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.AssemblyInfoInputs.cache
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.AssemblyInfo.cs
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.dll
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.pdb
+D:\Grand Circus\Lab 7\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.genruntimeconfig.cache
